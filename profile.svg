@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait illustration of John Adekunle Adeniyi</title>
+  <desc id="desc">A stylized portrait of a man with dark skin, short hair, and a blue shirt.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f2f4f7"/>
+      <stop offset="100%" stop-color="#e3e8ef"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#5e6ec8"/>
+      <stop offset="100%" stop-color="#4d5db2"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6d3c2d"/>
+      <stop offset="60%" stop-color="#8b4e37"/>
+      <stop offset="100%" stop-color="#663727"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="400" fill="url(#bg)"/>
+
+  <g transform="translate(0 18)">
+    <path d="M78 355c18-78 87-92 122-92s110 16 130 92H78z" fill="url(#shirt)"/>
+    <path d="M200 230c-42 0-70 18-83 60-6 19-7 40-7 55h180c0-15-1-35-7-55-13-42-42-60-83-60z" fill="url(#skin)"/>
+
+    <path d="M128 175c0-55 32-92 72-92s72 37 72 92v19c-16-10-28-16-72-16-44 0-56 6-72 16v-19z" fill="#36271f"/>
+    <path d="M146 165c14-15 30-22 54-22 38 0 58 22 70 48-27-35-77-41-124-26z" fill="#2c1f1a" opacity="0.85"/>
+
+    <ellipse cx="160" cy="182" rx="18" ry="22" fill="#1b120f"/>
+    <ellipse cx="238" cy="182" rx="18" ry="22" fill="#1b120f"/>
+    <circle cx="164" cy="185" r="5.5" fill="#1a1a1a"/>
+    <circle cx="234" cy="185" r="5.5" fill="#1a1a1a"/>
+    <ellipse cx="164" cy="180" rx="10" ry="8" fill="#d5c38b" opacity="0.65"/>
+    <ellipse cx="234" cy="180" rx="10" ry="8" fill="#d5c38b" opacity="0.65"/>
+
+    <path d="M164 214c14 12 28 17 36 17s22-5 36-17" fill="none" stroke="#402c26" stroke-width="4" stroke-linecap="round"/>
+    <path d="M178 214c7 8 13 12 22 12s15-4 22-12" fill="none" stroke="#2a1f1a" stroke-width="4" stroke-linecap="round"/>
+
+    <path d="M150 196c5 3 11 4 16 2" fill="none" stroke="#b77d5d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M248 196c-5 3-11 4-16 2" fill="none" stroke="#b77d5d" stroke-width="5" stroke-linecap="round"/>
+
+    <path d="M175 225c12 9 18 12 25 12 9 0 15-4 25-12" fill="none" stroke="#2b1f1d" stroke-width="7" stroke-linecap="round"/>
+    <path d="M180 230c8 5 14 7 20 7 8 0 15-2 20-7" fill="none" stroke="#7c4e3a" stroke-width="6" stroke-linecap="round"/>
+
+    <path d="M119 155c30-42 42-54 81-54 38 0 62 28 82 62-10-15-29-30-56-34-25-4-57 3-107 26z" fill="#2a1a18" opacity="0.9"/>
+    <path d="M134 148c23-18 43-25 66-25 43 0 73 21 89 52-22-9-70-15-155-27z" fill="#3a2a24" opacity="0.8"/>
+  </g>
+</svg>
